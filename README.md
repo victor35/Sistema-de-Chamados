@@ -7,7 +7,7 @@ para que todos os técnicos possam vizualizar melhor os pedidos e tomar melhor a
 - java
 - jsp
 - sql
-- bootsrap
+- bootstrap
 # Ferramentas
 - netbeans
 - mysql Workbench
